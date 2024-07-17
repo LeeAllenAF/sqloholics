@@ -2,9 +2,9 @@
 # SQLoholics
 _(pronounced es-que-oliks)_
 
-[![GitHub license](https://img.shields.io/github/license/AlienFishConsulting/sqloholics.svg)](https://github.com/AlienFishConsulting/sqloholics/blob/main/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/AlienFishConsulting/sqloholics.svg)](https://github.com/AlienFishConsulting/sqloholics/commits/main)
-[![GitHub issues](https://img.shields.io/github/issues/AlienFishConsulting/sqloholics.svg)](https://github.com/AlienFishConsulting/sqloholics/issues)
+[![GitHub license](https://img.shields.io/github/license/LeeAllenAF/sqloholics.svg)](https://github.com/AlienFishConsulting/sqloholics/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/LeeAllenAF/sqloholics.svg)](https://github.com/AlienFishConsulting/sqloholics/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/LeeAllenAF/sqloholics.svg)](https://github.com/AlienFishConsulting/sqloholics/issues)
 
 ---
 ![SQLoholics Logo](public/logo.png)
