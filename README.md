@@ -42,10 +42,12 @@ Community Support: Connect with other learners who share your journey and goals.
 
 Humor and Fun: Learn in a light-hearted environment with plenty of SQL-related puns and jokes.
 
+---
+
 ## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
 
-## Prerequisites
+### Prerequisites
 Before you start, make sure you have the following software installed on your machine:
 
 - Docker
@@ -117,7 +119,6 @@ You are now connected to the MySQL database and can start working with it using 
 
 ---
 
-
 ## Contributing
 We welcome contributions from the community! If you'd like to contribute, please fork the repository and create a pull
 request with your changes. Make sure to follow the project's code style and include tests for any new features or bug fixes.
@@ -132,13 +133,12 @@ git commit -m "Add new feature"
 # Push to the branch:
 git push origin feature-name
 ```
-
+---
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
-
+---
 ## Contact
 If you have any questions or need further assistance, feel free to reach out to us:
-
 
 **Author**: Lee Allen
 
